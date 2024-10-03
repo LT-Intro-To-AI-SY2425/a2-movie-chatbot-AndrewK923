@@ -12,9 +12,9 @@ This assignment is about learning and applying the while loop and iterating thro
 
 ## Reflection Questions
 1. What was difficult for you while completing the match function?
-
+Completing the if sequences and doing all of the possible scenarios. Also making sure all of my asserts don't fail. 
 
 
 2. Explain how you could use the match function for extracting information from a movie database.
-
+You could ask a user to input a question about movies/a movie then match that sentence with a database to see what they're asking and give them that information. 
 
